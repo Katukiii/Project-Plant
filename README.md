@@ -55,7 +55,7 @@ Install the following via the Arduino Library Manager:
 1. Wire everything according to the diagram above
 2. Upload the Arduino sketch using the Arduino IDE
 3. Adjust the soil moisture threshold and pump duration as needed
-4. Power the system via USB or power bank
+4. Power the system via the 9V Battery
 
 ---
 
