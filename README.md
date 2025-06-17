@@ -12,7 +12,7 @@ It reads the soil moisture level and turns on a water pump if the soil is too dr
 
 ---
 
-## 🧰 Components Used
+## Components Used
 
 | Component                   | Model / Link                                                                 |
 |-----------------------------|-------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ It reads the soil moisture level and turns on a water pump if the soil is too dr
 
 ---
 
-## 🖇️ Wiring Diagram
+## Wiring Diagram
 
 ![image](https://github.com/user-attachments/assets/dec846b8-8e84-4db1-af44-5969bbf50b5e)
 
@@ -42,7 +42,7 @@ It reads the soil moisture level and turns on a water pump if the soil is too dr
 
 ---
 
-## 💾 Arduino Libraries Required
+## Arduino Libraries Required
 
 Install the following via the Arduino Library Manager:
 
@@ -50,7 +50,7 @@ Install the following via the Arduino Library Manager:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Wire everything according to the diagram above
 2. Upload the Arduino sketch using the Arduino IDE
@@ -59,9 +59,15 @@ Install the following via the Arduino Library Manager:
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
-```cpp
+```
 const int MOISTURE_THRESHOLD = 600; // Adjust after testing
-delay(5000);  // Watering duration in milliseconds (e.g. 5 seconds)
+delay(500);  // Watering duration in milliseconds (e.g. 5 seconds)
+```
+
+## License
+
+This project is open-source under the MIT License.
+
 
