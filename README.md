@@ -14,13 +14,13 @@ It reads the soil moisture level and turns on a water pump if the soil is too dr
 
 ## Components Used
 
-| Component                   | Model / Link                                                                 |
+| Component                   | Model / Link                                                                  |
 |-----------------------------|-------------------------------------------------------------------------------|
 | Microcontroller             | [ESP8266 NodeMCU](https://www.wemos.cc/en/latest/d1/d1_mini.html)             |
 | Soil Moisture Sensor        | [Capacitive Soil Sensor](  https://amzn.eu/d/9zFEdpF)                         |
 | Water Pump                  | [Mini 5V Water Pump](  https://a.co/d/ixYMz1V)                                |
 | Relay Module (1-Channel)    | [5V Relay Module](  https://amzn.eu/d/5fTFaja)                                |
-| NeoPixel LED Strip          | [6-LED GRBW Strip](https://amzn.eu/d/iQ3ZlVf)                                 |
+| NeoPixel LED Strip          | 6-LED NeoPixel RGB Strip                                                      |
 | Power Supply (9V)           | 9V Battery                                                                    |
 
 ---
