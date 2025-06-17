@@ -65,9 +65,10 @@ Install the following via the Arduino Library Manager:
 const int MOISTURE_THRESHOLD = 600; // Adjust after testing
 delay(500);  // Watering duration in milliseconds (e.g. 5 seconds)
 ```
+--- 
 
 ## License
 
 This project is open-source under the MIT License.
 
-
+---
