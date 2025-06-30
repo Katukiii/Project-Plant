@@ -43,10 +43,12 @@ It reads the soil moisture level and turns on a water pump if the soil is too dr
 
 ## Getting Started
 
-1. Wire everything according to the diagram above
-2. Upload the Arduino sketch using the Arduino IDE
-3. Adjust the soil moisture threshold and pump duration as needed
-4. Power the system via the 3V Battery
+1. Download the Moisture code to determine what noisture levels are okay for your plants.
+2. Download the ProjectPlant code
+3. Wire everything according to the diagram above
+4. Upload the ProjectPlant sketch using the Arduino IDE
+5. Adjust the soil moisture threshold and pump duration as needed (In ProjectPlant code, determine using Moisture code).
+6. Power the system via the 3V Battery OR ESP8266 3.3V (Not recommended).
 
 ---
 
