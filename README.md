@@ -11,6 +11,15 @@ It reads the soil moisture level and turns on a water pump if the soil is too dr
 
 ---
 
+
+https://github.com/user-attachments/assets/bf1c4063-d8d3-4ce8-a16c-81a3295ccaeb
+
+
+https://github.com/user-attachments/assets/a69ac3f4-b6fa-4358-b679-00ab2f5c4663
+
+
+---
+
 ## Components Used
 
 | Component                   | Model / Link                                                                  |
