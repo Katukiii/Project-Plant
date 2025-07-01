@@ -28,7 +28,6 @@ https://github.com/user-attachments/assets/a69ac3f4-b6fa-4358-b679-00ab2f5c4663
 | Soil Moisture Sensor        | [Capacitive Soil Sensor](  https://amzn.eu/d/9zFEdpF)                         |
 | Water Pump                  | [Mini 5V Water Pump](  https://a.co/d/ixYMz1V)                                |
 | Relay Module (1-Channel)    | [5V Relay Module](  https://amzn.eu/d/5fTFaja)                                |
-| Power Supply (3V)           | 3V Battery                                                                    |
 
 ---
 
@@ -51,12 +50,11 @@ https://github.com/user-attachments/assets/a69ac3f4-b6fa-4358-b679-00ab2f5c4663
 
 ## Getting Started
 
-1. Download the Moisture code to determine what noisture levels are okay for your plants.
-2. Download the ProjectPlant code
-3. Wire everything according to the diagram above
-4. Upload the ProjectPlant sketch using the Arduino IDE
-5. Adjust the soil moisture threshold and pump duration as needed (In ProjectPlant code, determine using Moisture code).
-6. Power the system via the 3V Battery OR ESP8266 3.3V (Not recommended).
+1. Download the Moisture code to determine what moisture levels are okay for your plants.
+2. After testing, wire everything according to the diagram above
+3. Upload the ProjectPlant sketch using the Arduino IDE
+4. Adjust the soil moisture threshold and pump duration as needed (In ProjectPlant code, determine using Moisture code).
+5. Power the system via the ESP8266.
 
 ---
 
