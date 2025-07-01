@@ -34,12 +34,11 @@ https://github.com/user-attachments/assets/a69ac3f4-b6fa-4358-b679-00ab2f5c4663
 
 ## Wiring Diagram
 
-![{5D7B714D-17C5-43F1-93E3-AF115BBC0852}](https://github.com/user-attachments/assets/5758af2b-6e90-4543-b46a-2a9d1d81af27)
 
-![{E0B6B111-5EFB-41F8-AA81-201203E1CBC0}](https://github.com/user-attachments/assets/4e9c2697-e9e8-4598-b184-1ce05444554f)
-
+![{12AA03C9-DC27-403A-B64A-2DF0560FD4F8}](https://github.com/user-attachments/assets/28fee72b-ec3c-474e-961a-356ef7f34e39)
 
 
+![{42C637D3-BE62-49B5-8C2B-09B0AF82B1DA}](https://github.com/user-attachments/assets/b8af7e9e-6a77-4f22-a8f3-f87456565413)
 
 
 | Device                   | ESP8266 Pin   | Notes                                 |
