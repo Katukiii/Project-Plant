@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/a69ac3f4-b6fa-4358-b679-00ab2f5c4663
 |--------------------------|---------------|---------------------------------------|
 | Moisture Sensor (AOUT)   | A0            | Analog moisture data                  |
 | Relay IN (Pump Control)  | D5            | Controls pump on/off                  |
-| Pump Power               | 3V via Battery| Pump connects through relay module    |
+| Pump Power               | 3V3 via ESP   | Pump connects through relay module    |
 
 ---
 
